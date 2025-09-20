@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "My First Post: The Journey Begins",
+    "date": "September 19, 2025",
+    "content": "This is the start of my web development journey. I'm excited to learn HTML, CSS, and JavaScript by building this blog."
+  },
+  {
+    "id": 2,
+    "title": "What is Responsive Design?",
+    "date": "September 20, 2025",
+    "content": "Responsive design means making a website that looks good on all devices, from mobile phones to desktops. It's a crucial skill for any frontend developer!"
+  }
+]

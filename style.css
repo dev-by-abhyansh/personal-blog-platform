@@ -1,0 +1,6 @@
+.netflix-red {
+    color: #E50914 !important; /* The !important tag ensures it overrides Bootstrap's default color */
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
